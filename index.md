@@ -88,6 +88,29 @@ If this policy changes materially, we will update the date above and note the ch
 
 ---
 
+
+# Delete Your Go Go Crawler Account
+
+To request deletion of your Go Go Crawler account and associated data, email:
+
+**your@email.com**
+
+Include the email address associated with your account. Requests are processed within 30 days.
+
+## What is deleted
+
+Your email address, username, step records, leaderboard entry, run feed history, pact and challenge data, and banked gold.
+
+## What is kept
+
+Purchase records are retained by Apple and Google and are not held by us. Anonymous purchase receipts held by RevenueCat are retained as required for transaction records.
+
+## Game progress
+
+Progress is stored on your device and is not affected by account deletion. Uninstalling the app removes it.
+
+Go Go Crawler is published by Soteria Tech Solutions LLC.
+
 ## Contact
 
 Questions about this policy or requests to delete your data:
